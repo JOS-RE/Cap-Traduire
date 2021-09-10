@@ -202,18 +202,6 @@ def main(targetLanguage):
         while targetLanguag != 'quit':
             targetLanguag = gui()
 
-# """
-# boolean = True
-# while boolean:
-#     targetLanguage = input(
-#         "What language would you like to translate to? (type 'quit' to exit) ")
-#     if targetLanguage == 'quit':
-#         boolean = False
-#     else:
-#         
-
-# """
-
     except Exception as ex:
         print(ex)
 
