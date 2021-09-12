@@ -125,9 +125,125 @@ def gui():
     )
     button_5.place(
         x=57.0,
-        y=382.99999999999994,
+        y=383.99999999999994,
         width=230.0,
         height=39.0
+    )
+    canvas.create_text(
+    54.0,
+    70.99999999999994,
+    anchor="nw",
+    text="Captraduire",
+    fill="#8A00BB",
+    font=("Comfortaa Regular", 34 * -1)
+)
+
+    canvas.create_text(
+        60.0,
+        360.99999999999994,
+        anchor="nw",
+        text="  to End the program, click below\n",
+        fill="#000000",
+        font=("Comfortaa Regular", 13 * -1)
+    )
+
+    canvas.create_text(
+        58.0,
+        207.99999999999994,
+        anchor="nw",
+        text="Instructions :",
+        fill="#6D6D6D",
+        font=("FontAwesome5Brands Regular", 15 * -1)
+    )
+
+    canvas.create_text(
+        61.0,
+        217.99999999999994,
+        anchor="nw",
+        text="",
+        fill="#6D6D6D",
+        font=("FontAwesome5Brands Regular", 15 * -1)
+    )
+
+    canvas.create_text(
+        75.0,
+        269.99999999999994,
+        anchor="nw",
+        text="∘ Speak in English",
+        fill="#6D6D6D",
+        font=("FontAwesome5Brands Regular", 15 * -1)
+    )
+
+    canvas.create_text(
+        75.0,
+        324.99999999999994,
+        anchor="nw",
+        text="∘ You're good to go",
+        fill="#6D6D6D",
+        font=("FontAwesome5Brands Regular", 15 * -1)
+    )
+
+    canvas.create_text(
+        75.0,
+        235.99999999999994,
+        anchor="nw",
+        text="∘ Click on the desired",
+        fill="#6D6D6D",
+        font=("FontAwesome5Brands Regular", 15 * -1)
+    )
+
+    canvas.create_text(
+        75.0,
+        249.99999999999994,
+        anchor="nw",
+        text="    language button",
+        fill="#6D6D6D",
+        font=("FontAwesome5Brands Regular", 15 * -1)
+    )
+
+    canvas.create_text(
+        75.0,
+        290.99999999999994,
+        anchor="nw",
+        text="∘ Wait for the program to",
+        fill="#6D6D6D",
+        font=("FontAwesome5Brands Regular", 15 * -1)
+    )
+
+    canvas.create_text(
+        75.0,
+        305.99999999999994,
+        anchor="nw",
+        text="   translate",
+        fill="#6D6D6D",
+        font=("FontAwesome5Brands Regular", 15 * -1)
+    )
+
+    canvas.create_text(
+        60.0,
+        125.99999999999994,
+        anchor="nw",
+        text="Welcome to Captraduire,",
+        fill="#FE724D",
+        font=("Comfortaa Regular", 18 * -1)
+    )
+
+    canvas.create_text(
+        60.0,
+        146.99999999999994,
+        anchor="nw",
+        text="your on the go",
+        fill="#FE724D",
+        font=("Comfortaa Regular", 18 * -1)
+    )
+
+    canvas.create_text(
+        60.0,
+        167.99999999999994,
+        anchor="nw",
+        text="translator.",
+        fill="#FE724D",
+        font=("Comfortaa Regular", 18 * -1)
     )
     window.resizable(False, False)
     window.mainloop()
