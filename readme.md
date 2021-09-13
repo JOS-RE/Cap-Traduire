@@ -32,8 +32,8 @@
     After installation, open the Anaconda prompt and enter the following commands to install packages:
   
   - <h3>Code<br></h3>
-    `pip install flask requests python-dotenv pylint matplotlib pillow`<br>
-    `pip install --upgrade numpy`
+    <i>pip install flask requests python-dotenv pylint matplotlib pillow</i><br>
+    <i>pip install --upgrade numpy</i>
   
   - Azure CLI<br>
     Download from https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest<br>
