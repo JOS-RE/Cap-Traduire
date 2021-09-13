@@ -1,4 +1,4 @@
-- <h1>CapTraduire</h1>
+- <h1>Cap-Traduire</h1>
 
     - In today's world, communication is important. While travelling one may face language problems. 
 
