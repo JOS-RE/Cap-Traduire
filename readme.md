@@ -14,8 +14,13 @@
   
     - Open the App<br>
       The app's layout may be seen here.
+    
     - There are four buttons, each button for each language available: Hindi, French, Spanish, and German.<br>
+    
     - Click the button to choose the desired language to translate your words<br>
+    
     - To translate your words speak in English<br>
+    
     - Wait for few seconds your words are being translated into desired output language.<br>
+    
     - When the translation is finished and you want to quit the app, click the exit button in the left corner.<br>
