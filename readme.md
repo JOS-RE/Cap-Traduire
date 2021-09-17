@@ -13,7 +13,6 @@ Communication is vital in today's era. Even more important is to have a healthy 
   
    - This software assists you in translating a language into four distinct languages
   
-<br>
   
 
 <h1>Instructions:- </h1>
